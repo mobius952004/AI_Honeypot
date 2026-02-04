@@ -1,0 +1,3 @@
+@echo off
+echo Starting Agentic Honey-Pot API...
+uvicorn main:app --reload --host 0.0.0.0 --port 8000
