@@ -46,6 +46,12 @@ coverage.xml
 *.mo
 *.pot
 
+# PROJECT_GUIDE.md
+# PROJECT_REPORT.md
+# PROJECT_REQUIREMENTS.md
+# PROJECT_SYSTEM_CONCEPTS.md
+# PROJECT_TASK.md
+# PROJECT_VERIFICATION.md
 # Django stuff:
 *.log
 local_settings.py

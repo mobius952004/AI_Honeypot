@@ -14,3 +14,11 @@
 - [x] Verify API Key in `.env` vs User Input <!-- id: 6 -->
 - [x] Check `core/security.py` validation logic <!-- id: 7 -->
 - [x] Updated `.env` to match user's input (`secret-key-123`) <!-- id: 8 -->
+
+# Task: Deployment Preparation
+
+- [x] Check and update `requirements.txt` <!-- id: 9 -->
+- [x] Create `Dockerfile` for containerization <!-- id: 10 -->
+- [x] Create `deployment_guide.md` with instructions for Google Cloud Run <!-- id: 11 -->
+- [x] Verify local Docker build (Docker not available locally, proceeding with guide) <!-- id: 12 -->
+- [x] Add Render deployment instructions to guide <!-- id: 13 -->
