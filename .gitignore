@@ -53,6 +53,7 @@ coverage.xml
 # PROJECT_TASK.md
 # PROJECT_VERIFICATION.md
 # Django stuff:
+# task.md
 *.log
 local_settings.py
 db.sqlite3
